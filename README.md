@@ -5,15 +5,12 @@
   I am currently a Full Stack Developer
 - 👀 I’m interested in get a better job and keep learning new languages and constantly update myself
 - I’m currently learning .net core and react.js
-- Among the languages that I have had to learn:
-  - VB .Net     ( 7 years  )      - C#          ( 6 years  )    - Asp.Net     ( 6 years  )
-  - JAVA        ( 1 year   )      - Angular 4+  ( 1 year   )    
-  - Nodejs      ( 6 months )      - Angularjs   ( 6 months )    - Reactjs     ( 6 months )
-- Database:
-  - Sql Server  ( 7 years  )      - MySQL       ( 1 year   )    - OracleSql   ( 1 year   )
-  - Informix    ( 6 months )      - MongoDB     ( 3 months )    - Firebase    ( 3 months )  
-- Frameworks: Spring Boot, Windows Communication Foundation, EDI, Windows Service, .NET Standard, Visual Studio, Studio Code, Ionic.
-- Methodology: Waterfall, CMMI DEV, Agile (Sprint), Spiral, Kanban, MVC (Model-View-Controller)
-- Tools: WebLogic, Integromate, Hudson, Git, Svn, Tortoise Git, Putty, Postman, Talend, API Tester, Atom, SoapUi, SnagIt, Win Merge, bitbucket.
-- You can reach me send me messages on linkedin /in/neri-menchaca-castillo/
-Updated in 20210828
+- my expertise over time:
+
+![alt text](https://media-exp1.licdn.com/dms/image/C562DAQEofeB7KfK8pA/profile-treasury-document-images_800/1/1650576453944?e=2147483647&v=beta&t=-P9vW0T6ojcbnkCFOQmHPlbPLRalqUgjhPduCQABX_E)
+- You can reach me send me messages on :
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/neri-menchaca-castillo/)
+
+
+Updated in 20220423
