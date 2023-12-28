@@ -7,7 +7,7 @@
 - I’m currently learning .net core and react.js
 - my expertise over time:
 
-![alt text](https://media-exp1.licdn.com/dms/image/C562DAQEofeB7KfK8pA/profile-treasury-document-images_800/1/1650576453944?e=2147483647&v=beta&t=-P9vW0T6ojcbnkCFOQmHPlbPLRalqUgjhPduCQABX_E)
+![alt text](https://media.licdn.com/dms/image/D4E2DAQEE7GczSF07WQ/profile-treasury-document-images_800/1/1703737975125?e=1704931200&v=beta&t=0AQr4Ndj4ppe-Jdkx0lNj5bc_-Z9bt-749kTPBhQ1uc)
 - You can reach me send me messages on :
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/neri-menchaca-castillo/)
