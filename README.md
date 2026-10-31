@@ -1,5 +1,71 @@
-👋 Hi, I’m Alfonso-13, a passionate Full-Stack Developer with over 9 years of experience. I began my career in 2014 with VB.NET and C#. In 2018, I had the opportunity to lead 6 development teams to successfully release a new product for a banking insurance division. Since 2019, I've continued to grow as a Full-Stack Developer, constantly expanding my skill set by learning new languages and frameworks to meet the evolving demands of the projects I work on. Currently, I'm focused on .NET Core and React.js, always seeking to improve and stay updated in the tech world.
+<div align="center">
 
-🔗[Connect with me on LinkedIn](https://www.linkedin.com/in/neri-menchaca-castillo/)
+<h1>Neri Alfonso Menchaca Castillo</h1>
+<h3>Senior Full Stack .NET Developer</h3>
+<p><code>.NET</code> · <code>Angular</code> · <code>Azure</code> · <code>REST APIs</code> · <code>Enterprise Applications</code> · <code>AI-Assisted Development</code></p>
+<p><a href="https://www.linkedin.com/in/neri-menchaca-castillo/">LinkedIn</a> · <a href="https://github.com/Alfonso-13">GitHub</a></p>
 
-Updated in 20240919
+</div>
+
+---
+
+## About me
+
+I am a Senior Full Stack .NET Developer who has been building software professionally since 2014. I design, develop, modernize, and support enterprise applications across aviation, financial services, insurance, tax compliance, coordination, and ERP environments.
+
+My work combines backend development, modern web applications, cloud services, system integrations, and close collaboration with business and technical teams. I focus on maintainable solutions, reliable delivery, performance, and practical business outcomes.
+
+## What I do
+
+- Build and modernize enterprise applications with .NET and Angular.
+- Design REST APIs and integrations for business-critical systems.
+- Develop and operate cloud solutions using Microsoft Azure.
+- Improve performance, maintainability, and development workflows.
+- Translate business requirements into scalable technical solutions.
+- Support delivery through testing, technical documentation, and code review.
+
+## AI-assisted development and automation
+
+I use generative AI and agentic coding tools throughout the software development lifecycle to support code generation, testing, code review, debugging, technical documentation, repetitive development tasks, small web applications, and single-page experiences.
+
+I also use **n8n** to build workflow automations and integrations. AI-generated changes remain developer-assisted output: they are reviewed, tested, and validated before integration or release.
+
+Tools I work with include **GitHub Copilot, ChatGPT, OpenAI Codex, Claude Code, and n8n**.
+
+## Core expertise
+
+| Area | Technologies and capabilities |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Web API, REST APIs, enterprise integrations |
+| Frontend | Angular, TypeScript, JavaScript, React |
+| Cloud and delivery | Microsoft Azure, Azure Functions, Azure App Services, Azure DevOps, Git |
+| Data and search | SQL Server, Cosmos DB, MySQL, MongoDB, Elasticsearch |
+| Architecture | Enterprise applications, cloud solutions, system integrations, SaaS, software modernization |
+| Quality | Testing, debugging, code review, technical documentation, performance optimization |
+
+## Professional perspective
+
+My background spans the complete software delivery lifecycle: requirements analysis, architecture, development, deployment, production support, modernization, and collaboration across multidisciplinary teams.
+
+I value solutions that are understandable, testable, maintainable, and aligned with the real needs of users and organizations. Technologies change; sound engineering judgment, ownership, and continuous learning remain central to how I work.
+
+<details>
+<summary><strong>Resumen en español</strong></summary>
+
+Soy desarrollador Senior Full Stack .NET y desarrollo software profesionalmente desde 2014. Tengo experiencia diseñando, construyendo, modernizando y dando soporte a aplicaciones empresariales para sectores como aviación, servicios financieros, seguros, cumplimiento fiscal, coordinación y sistemas ERP.
+
+Trabajo con .NET, Angular, Azure, APIs e integraciones, combinando experiencia técnica con entendimiento del negocio. También utilizo inteligencia artificial para apoyar actividades de desarrollo, pruebas, revisión, documentación y automatización, manteniendo siempre revisión y validación humana antes de integrar o liberar cambios.
+
+</details>
+
+## Connect
+
+The best way to contact me and learn more about my professional experience is through [LinkedIn](https://www.linkedin.com/in/neri-menchaca-castillo/).
+
+---
+
+<div align="center">
+
+<p><em>Last updated: 2026-10-31</em></p>
+
+</div>
