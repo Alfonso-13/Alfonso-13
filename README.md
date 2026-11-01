@@ -32,6 +32,18 @@ I also use **n8n** to build workflow automations and integrations. AI-generated 
 
 Tools I work with include **GitHub Copilot, ChatGPT, OpenAI Codex, Claude Code, and n8n**.
 
+## Featured projects
+
+### [Texta · AI Text Analyzer](https://github.com/Alfonso-13/AI-Text-Analyzer)
+
+A full-stack AI demo that transforms free-form text into a Spanish summary, sentiment, detected language, keywords, and category through Google Gemini.
+
+- **Engineering highlights:** Svelte 5, Express 5, shared Zod contracts, structured AI output, rate limiting, request timeouts, secure server-side API key handling, and automated tests.
+- **Privacy by design:** analysis history stays in the browser and the original text is not stored by the server.
+- **Built for learning and reuse:** includes local setup, technical documentation, visual evidence, validation commands, and an MIT license.
+
+[View repository](https://github.com/Alfonso-13/AI-Text-Analyzer) · Feedback and contributions are welcome.
+
 ## Core expertise
 
 | Area | Technologies and capabilities |
