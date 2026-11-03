@@ -44,6 +44,16 @@ A full-stack AI demo that transforms free-form text into a Spanish summary, sent
 
 [View repository](https://github.com/Alfonso-13/AI-Text-Analyzer) · Feedback and contributions are welcome.
 
+### [Briefcase · Portfolio & My Universe](https://github.com/Alfonso-13/briefcase.github.io)
+
+A configurable bilingual portfolio built with Angular and Ionic. Its independent **My Universe** experience uses Three.js to transform professional experience, education, and technical knowledge into an interactive 3D system.
+
+- **Engineering highlights:** Angular 22, Ionic 9, Three.js, TypeScript 6, JSON-driven content, responsive touch and keyboard navigation, persistent theme and language preferences, automated tests, and a reproducible GitHub Pages build.
+- **Interactive storytelling:** professional domains, clusters, and technologies are explored through a semantic orbital map designed for desktop and mobile.
+- **Reusable by design:** example configuration is separated from personal identity and assets, with technical documentation and an MIT-licensed codebase.
+
+[Live demo](https://alfonso-13.github.io/briefcase.github.io/) · [View repository](https://github.com/Alfonso-13/briefcase.github.io) · Feedback and contributions are welcome.
+
 ## Core expertise
 
 | Area | Technologies and capabilities |
@@ -78,6 +88,6 @@ The best way to contact me and learn more about my professional experience is th
 
 <div align="center">
 
-<p><em>Last updated: 2026-10-31</em></p>
+<p><em>Last updated: 2026-11-02</em></p>
 
 </div>
