@@ -42,7 +42,7 @@ A full-stack AI demo that transforms free-form text into a Spanish summary, sent
 - **Privacy by design:** analysis history stays in the browser and the original text is not stored by the server.
 - **Built for learning and reuse:** includes local setup, technical documentation, visual evidence, validation commands, and an MIT license.
 
-[View repository](https://github.com/Alfonso-13/AI-Text-Analyzer) · Feedback and contributions are welcome.
+[Live demo](https://alfonso-13.github.io/AI-Text-Analyzer/) · [View repository](https://github.com/Alfonso-13/AI-Text-Analyzer) · Feedback and contributions are welcome.
 
 ### [Briefcase · Portfolio & My Universe](https://github.com/Alfonso-13/briefcase.github.io)
 
@@ -88,6 +88,6 @@ The best way to contact me and learn more about my professional experience is th
 
 <div align="center">
 
-<p><em>Last updated: 2026-11-02</em></p>
+<p><em>Last updated: 2026-11-06</em></p>
 
 </div>
