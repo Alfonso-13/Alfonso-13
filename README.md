@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="./assets/github-profile-banner.png" alt="Always Learning. Always Building." width="100%">
+</p>
+
 <div align="center">
 
 <h1>Neri Alfonso Menchaca Castillo</h1>
 <h3>Senior Full Stack .NET Developer</h3>
 <p><code>.NET</code> · <code>Angular</code> · <code>Azure</code> · <code>REST APIs</code> · <code>Enterprise Applications</code> · <code>AI-Assisted Development</code></p>
+<p><a href="https://hub.xerj.org/contributors/Alfonso-13"><img src="https://hub.xerj.org/contributors/Alfonso-13/badge.svg" alt="XERJ Corpus Hub contributor"></a></p>
 <p><a href="https://www.linkedin.com/in/neri-menchaca-castillo/">LinkedIn</a> · <a href="https://github.com/Alfonso-13">GitHub</a></p>
 
 </div>
@@ -88,6 +93,6 @@ The best way to contact me and learn more about my professional experience is th
 
 <div align="center">
 
-<p><em>Last updated: 2026-11-06</em></p>
+<p><em>Last updated: 2026-11-10</em></p>
 
 </div>
