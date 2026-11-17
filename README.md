@@ -59,6 +59,16 @@ A configurable bilingual portfolio built with Angular and Ionic. Its independent
 
 [Live demo](https://alfonso-13.github.io/briefcase.github.io/) · [View repository](https://github.com/Alfonso-13/briefcase.github.io) · Feedback and contributions are welcome.
 
+### [.NET Code Maturity Lab](https://github.com/Alfonso-13/dotnet-code-maturity-lab)
+
+A bilingual and interactive learning laboratory that demonstrates how a .NET solution grows from C# fundamentals into maintainable application code through a connected order-processing domain.
+
+- **Engineering highlights:** .NET 10, Blazor, ASP.NET Core, Entity Framework Core, SQLite, xUnit, HTTP integration tests, bilingual content, browser-local learning progress, and automated GitHub Pages deployment.
+- **Practical learning path:** twelve Junior modules and sixty code-first perspectives combine copyable examples, .NET history and ecosystem guides, visible progress, and a functional order laboratory.
+- **Honest deployment model:** the complete local profile uses real endpoints and SQLite, while the static WebAssembly demo uses browser-session memory and clearly identifies that boundary. Middle and Senior content remains explicitly marked as upcoming.
+
+[Live demo](https://alfonso-13.github.io/dotnet-code-maturity-lab/) · [View repository](https://github.com/Alfonso-13/dotnet-code-maturity-lab) · Feedback and contributions are welcome.
+
 ## Core expertise
 
 | Area | Technologies and capabilities |
@@ -93,6 +103,6 @@ The best way to contact me and learn more about my professional experience is th
 
 <div align="center">
 
-<p><em>Last updated: 2026-11-10</em></p>
+<p><em>Last updated: 2026-11-16</em></p>
 
 </div>
